@@ -1,3 +1,5 @@
+-- Sales Data/Visualization Project By Robert Solomon
+
 DROP DATABASE IF EXISTS salesData;
 CREATE DATABASE IF NOT EXISTS salesData;
 USE salesData;
