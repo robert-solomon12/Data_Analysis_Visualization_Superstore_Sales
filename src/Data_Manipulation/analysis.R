@@ -74,6 +74,6 @@ plot(forecast_sales)
 
 # Data Cleaning and Initial Analysis with Excel:
 
-# Exporting the cleaned data (sales_data) back into Excel (.csv format) for further visualization and analysis
+# Exporting the cleaned data (sales_data) post processing and manipulation back into Excel (.csv format) for further visualization and analysis
 write.csv(sales_data, "cleaned_sales_data.csv", row.names = FALSE)
 
