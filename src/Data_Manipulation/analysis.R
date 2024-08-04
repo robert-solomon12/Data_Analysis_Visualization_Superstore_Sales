@@ -10,12 +10,12 @@
 
 
 # Installing necessary libraries/packages for analysis and database manipulation
-install.packages(c("DBI",
-                   "RMySQL",
-                   "dplyr", 
-                   "tidyr", 
-                   "ggplot2", 
-                   "plotly", "forecast"))
+# install.packages(c("DBI",
+#                    "RMySQL",
+#                    "dplyr", 
+#                    "tidyr", 
+#                    "ggplot2", 
+#                    "plotly", "forecast"))
 
 # Importing libraries
 library(DBI)
@@ -23,15 +23,18 @@ library(RMySQL)
 library(dplyr)
 library(tidyr)
 
-# Creating connection socket to database
+# Creating connection socket to Database
 con <- dbConnect(MySQL(), dbname = "salesData", host = "localhost", 
                  user = "root", password = "fGs€t”:aHfkj6&s")
 
 # Querying sales data to link for manipulation 
 sales_data <- dbGetQuery(con, "SELECT * FROM sales")
+
+# Disconnect from SQL Database
 dbDisconnect(con)
 
-
+# Displaying 'sales data'
+sales_data
 
 
 # Performing data cleaning and transformation:
