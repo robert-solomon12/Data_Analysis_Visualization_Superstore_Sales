@@ -44,8 +44,8 @@ The dataset used in this project is derived from a fictional retail store, provi
 - Analysis and Interpretation: Utilize the dashboards to derive insights and make data-driven decisions.
 
 # Project Files
-- Data: The raw dataset and any processed versions.
-- Scripts: Python scripts used for data cleaning and preprocessing.
+- Data: The raw excel dataset and any processed versions.
+- Scripts: R and SQL scripts used for data cleaning and preprocessing.
 - Power BI Files: Power BI project files containing the dashboards.
 Documentation: Detailed documentation and reports generated from the analysis.
 
