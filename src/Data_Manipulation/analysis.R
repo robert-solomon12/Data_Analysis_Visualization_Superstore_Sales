@@ -82,5 +82,5 @@ excel_file <- "cleaned_sales_data.csv"
 write.csv(sales_data, excel_file, row.names = FALSE)
 
 
-# Validating the merged file creation:
+# Validating the data file creation:
 cat("Excel file has been created at", excel_file, "\n")
