@@ -9,9 +9,8 @@ This project involves comprehensive data analysis and visualization of a retail 
 
 ## Power BI: Used for creating interactive dashboards and visualizations.
 - SQL: Employed for data extraction and manipulation.
-- Python (pandas): Utilized for data cleaning and preprocessing.
+- R: Utilized for data cleaning and preprocessing.
 - Excel: Assisted in initial data exploration and verification.
-
 
 # Data Source
 The dataset used in this project is derived from a fictional retail store, providing a rich mix of data fields including:
