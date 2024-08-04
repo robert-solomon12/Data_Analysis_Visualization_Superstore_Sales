@@ -74,6 +74,13 @@ plot(forecast_sales)
 
 # Data Cleaning and Initial Analysis with Excel:
 
-# Exporting the cleaned data (sales_data) post processing and manipulation back into Excel (.csv format) for further visualization and analysis
-write.csv(sales_data, "cleaned_sales_data.csv", row.names = FALSE)
+# Specifying the file name to save the Excel file:
+excel_file <- "cleaned_sales_data.csv"
 
+
+# Exporting the cleaned data (sales_data) post processing and manipulation back into Excel (.csv format) for further visualization and analysis
+write.csv(sales_data, excel_file, row.names = FALSE)
+
+
+# Validating the merged file creation:
+cat("Excel file has been created at", excel_file, "\n")
