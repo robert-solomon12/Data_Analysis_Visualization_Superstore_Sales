@@ -47,7 +47,6 @@ The dataset used in this project is derived from a fictional retail store, provi
 - Data: The raw excel dataset and any processed versions.
 - Scripts: R and SQL scripts used for data cleaning and preprocessing.
 - Power BI Files: Power BI project files containing the dashboards.
-Documentation: Detailed documentation and reports generated from the analysis.
 
 # Conclusion
 This project demonstrates the practical application of data analytics and visualization techniques to understand business performance, customer behavior, and market trends. The insights gained can help businesses make informed decisions and strategize for future growth.
