@@ -38,9 +38,11 @@ The dataset used in this project is derived from a fictional retail store, provi
 - Regional Growth: Tracking sales growth or decline in specific regions over time.
 
 # How to Use
-- Data Preparation: Ensure the dataset is clean and formatted correctly. Preprocessing can be done using tools like Excel, R or Python (with pandas).
+- Data Preparation: The Dataset is already prepared but you can also ensure the dataset is clean and formatted correctly.
+- Preprocessing can be done using tools like Excel, R or Python (with pandas), in this case I used R to prepare the dataset.
+- Machine Learning is also used in the project to perform statistical analysis and/or predictive modelling
 - Import Data: Load the dataset into Power BI or another preferred data visualization tool.
-- Dashboard Creation: Use the provided DAX formulas and visualization guidelines to build the dashboards.
+- Dashboard Creation: Use the provided DAX formulas and visualization guidelines that I've already done to build the dashboards otherwise create your own.
 - Analysis and Interpretation: Utilize the dashboards to derive insights and make data-driven decisions.
 
 # Project Files
