@@ -50,3 +50,9 @@ The dataset used in this project is derived from a fictional retail store, provi
 
 # Conclusion
 This project demonstrates the practical application of data analytics and visualization techniques to understand business performance, customer behavior, and market trends. The insights gained can help businesses make informed decisions and strategize for future growth.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details or click [here](https://github.com/robert-solomon12/Data_Analysis_Visualization_Superstore_Sales/blob/master/LICENSE).
+
+# Acknowledgments
+Special thanks to Kaggle for providing the Superstore Sales Dataset used in this project which is located in the 'Dataset' directory of this project or can be found on the Kaggle website when you click [here](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
