@@ -51,7 +51,8 @@ The dataset used in this project is derived from a fictional retail store, provi
 - Power BI Files: Power BI project files containing the dashboards.
 
 # Conclusion
-This project demonstrates the practical application of data analytics and visualization techniques to understand business performance, customer behavior, and market trends. The insights gained can help businesses make informed decisions and strategize for future growth.
+- This project demonstrates the practical application of data analytics and visualization techniques to understand business performance, customer behavior, and market trends. 
+- The insights gained can help businesses make informed decisions and strategize for future growth.
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details or click [here](https://github.com/robert-solomon12/Data_Analysis_Visualization_Superstore_Sales/blob/master/LICENSE).
