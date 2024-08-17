@@ -38,16 +38,23 @@ The dataset used in this project is derived from a fictional retail store, provi
 - Regional Growth: Tracking sales growth or decline in specific regions over time.
 
 # How to Use
-- Data Preparation: Ensure the dataset is clean and formatted correctly. Preprocessing can be done using tools like Excel, R or Python (with pandas).
+- Data Preparation: The Dataset is already prepared but you can also ensure the dataset is clean and formatted correctly.
+- Preprocessing can be done using tools like Excel, R or Python (with pandas), in this case I used R to prepare the dataset.
+- Machine Learning is also used in the project to perform statistical analysis and/or predictive modelling
 - Import Data: Load the dataset into Power BI or another preferred data visualization tool.
-- Dashboard Creation: Use the provided DAX formulas and visualization guidelines to build the dashboards.
+- Dashboard Creation: Use the provided DAX formulas and visualization guidelines that I've already done to build the dashboards otherwise create your own.
 - Analysis and Interpretation: Utilize the dashboards to derive insights and make data-driven decisions.
 
 # Project Files
 - Data: The raw excel dataset and any processed versions.
 - Scripts: R and SQL scripts used for data cleaning and preprocessing.
 - Power BI Files: Power BI project files containing the dashboards.
-Documentation: Detailed documentation and reports generated from the analysis.
 
 # Conclusion
 This project demonstrates the practical application of data analytics and visualization techniques to understand business performance, customer behavior, and market trends. The insights gained can help businesses make informed decisions and strategize for future growth.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details or click [here](https://github.com/robert-solomon12/Data_Analysis_Visualization_Superstore_Sales/blob/master/LICENSE).
+
+# Acknowledgments
+Special thanks to Kaggle for providing the Superstore Sales Dataset used in this project which is located in the 'Dataset' directory of this project or can be found on the Kaggle website when you click [here](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
