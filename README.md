@@ -1,5 +1,6 @@
 
 # Sales Data Analysis and Visualization Project
+<img src="src/IMG/Superstore_Sales.jpg" width="900"> 
 
 # Project Overview
 This project involves comprehensive data analysis and visualization of a retail sales dataset. The primary goal is to derive actionable insights from the data, which includes details about orders, customers, products, and regions. The project utilizes various tools and techniques, including Power BI, to create interactive dashboards that showcase key metrics and trends.
